@@ -5,13 +5,13 @@ Learn how to build and deploy a hotel management system with Next.js, React, San
 Features:
 - Hotel Room Management CRUD with Sanity.IO
 - Hotel Room Review
+- <strong>Typescript</strong>
 - Room Booking
 - Checkout with Stripe
 - Stripe webhook
 - Light / Dark Mode with React Context
 - Search (Room Type  / Name)
 - Authentication with Auth.JS
-- Typescript
 - useSwr Hook
 - Deployment to Vercel
 - And lots more...
